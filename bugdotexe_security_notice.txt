@@ -1,1 +1,0 @@
-This file was created to demonstrate that a leaked GitHub PAT has write access to your repos. Please revoke the token ending in ...nUfH2 immediately. Contact bugdotexe@wearehackerone.com for details.
